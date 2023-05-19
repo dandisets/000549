@@ -24,7 +24,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   Effect of the pulse duration on electroporation by unipolar and 50% bipolar pulses
-  (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  (Version 0.230519.2043) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000549/0.230519.2043
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -67,15 +67,15 @@ description: Trains of 5 different duration pulses,  all exposures were at 1 Hz.
   amplitude was 50% in relation to the first pulse's amplitude). The electrodes were
   two parallel stainless-steel cylinders, 1.5 mm in diameter and 3 mm apart. Supported
   by NIH 1R21EY034258
-doi: 10.80507/dandi.123456/0.123456.1234
+doi: 10.48324/dandi.000549/0.230519.2043
 ethicsApproval: []
-id: DANDI:000549/draft
+id: DANDI:000549/0.230519.2043
 identifier: DANDI:000549
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000549/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000549/0.230519.2043/assets.yaml
 name: Effect of the pulse duration on electroporation by unipolar and 50% bipolar
   pulses
 protocol: []
@@ -101,8 +101,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000549/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000549/0.230519.2043
+version: 0.230519.2043
 wasGeneratedBy:
 - identifier: NIH 1R21EY034258
   name: Targeted Neuromodulation by Nanosecond Pulsed Electric Fields
