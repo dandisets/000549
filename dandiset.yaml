@@ -12,7 +12,7 @@ assetsSummary:
   schemaKey: AssetsSummary
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii; Pakhomov, Andrei (2023)
   Effect of the pulse duration on electroporation by unipolar and 50% bipolar pulses
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000549/draft
+  (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -48,12 +48,14 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-05-19T18:40:04.279670+00:00'
+datePublished: '2023-05-19T19:04:01.252183+00:00'
 description: Trains of 5 different duration pulses,  all exposures were at 1 Hz. Cells
-  were electroporated by a train of 5 unipolar 300ns, 600ns, 1200ns, 50us, 100us,
-  500us or bipolar 300+300ns, 600+600ns, 1200+1200ns, 50+50us, 100+100us, 500+500us
-  pulses (second pulse's amplitude was 50% in relation to the first pulse's amplitude).
-  The electrodes were two parallel stainless-steel cylinders, 1.5 mm in diameter and
-  3 mm apart. Supported by NIH 1R21EY034258
+  were electroporated by a train of 5 unipolar 300ns, 1200ns, 50us, 100us, 500us or
+  bipolar 300+300ns, 1200+1200ns, 50+50us, 100+100us, 500+500us pulses (second pulse's
+  amplitude was 50% in relation to the first pulse's amplitude). The electrodes were
+  two parallel stainless-steel cylinders, 1.5 mm in diameter and 3 mm apart. Supported
+  by NIH 1R21EY034258
+doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000549/draft
 identifier: DANDI:000549
@@ -65,6 +67,18 @@ manifestLocation:
 name: Effect of the pulse duration on electroporation by unipolar and 50% bipolar
   pulses
 protocol: []
+publishedBy:
+  endDate: '2023-05-19T19:04:01.252183+00:00'
+  id: urn:uuid:af57ddb0-d606-4a1f-a699-7eff4fbdb952
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-05-19T19:04:01.252183+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:63ad83a7-2da2-4a1a-8227-2b2fe676bed8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Action spectra and mechanisms of (in) efficiency of bipolar electric pulses
     at electroporation
